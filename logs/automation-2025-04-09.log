@@ -1,0 +1,46 @@
+12:39:19.828 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:39:19.852 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+12:39:19.854 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:39:20.051 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:39:20.053 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+12:39:20.055 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:39:20.177 [main] INFO  testCases.TC003_Login_DataDriven_Test - *****Started the Login Testcases*****
+12:39:20.177 [main] INFO  testCases.TC003_Login_DataDriven_Test - *****Executed the Login Page*****
+12:39:22.918 [main] INFO  testCases.TC003_Login_DataDriven_Test - *****Providing login details*****
+12:39:26.518 [main] INFO  testCases.TC003_Login_DataDriven_Test - *****Login Successfully and Verify the Message*****
+12:39:28.528 [main] INFO  testCases.TC003_Login_DataDriven_Test - *****Started the Login Testcases*****
+12:39:28.553 [main] INFO  testCases.TC003_Login_DataDriven_Test - *****Started the Login Testcases*****
+12:39:28.555 [main] INFO  testCases.TC003_Login_DataDriven_Test - *****Executed the Login Page*****
+12:39:30.857 [main] INFO  testCases.TC003_Login_DataDriven_Test - *****Providing login details*****
+12:39:33.628 [main] INFO  testCases.TC003_Login_DataDriven_Test - *****Login Successfully and Verify the Message*****
+12:39:44.017 [main] INFO  testCases.TC003_Login_DataDriven_Test - *****Started the Login Testcases*****
+12:39:44.050 [main] INFO  testCases.TC003_Login_DataDriven_Test - *****Started the Login Testcases*****
+12:39:44.051 [main] INFO  testCases.TC003_Login_DataDriven_Test - *****Executed the Login Page*****
+12:39:48.975 [main] INFO  testCases.TC003_Login_DataDriven_Test - *****Providing login details*****
+12:39:53.289 [main] INFO  testCases.TC003_Login_DataDriven_Test - *****Login Successfully and Verify the Message*****
+12:40:03.513 [main] INFO  testCases.TC003_Login_DataDriven_Test - *****Started the Login Testcases*****
+12:40:03.540 [main] INFO  testCases.TC003_Login_DataDriven_Test - *****Started the Login Testcases*****
+12:40:03.541 [main] INFO  testCases.TC003_Login_DataDriven_Test - *****Executed the Login Page*****
+12:40:05.425 [main] INFO  testCases.TC003_Login_DataDriven_Test - *****Providing login details*****
+12:40:10.856 [main] INFO  testCases.TC003_Login_DataDriven_Test - *****Login Successfully and Verify the Message*****
+12:41:02.644 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\venka\eclipse-workspace\com.opencart\crossbrowsertesting.xml"
+12:41:04.806 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\venka\eclipse-workspace\com.opencart\crossbrowsertesting.xml
+
+12:41:44.931 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - *****Starting TC01_AccountRegistrationTest*****
+12:41:52.220 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - *****Clicked on MyAccount Link*****
+12:41:56.346 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - *****Clicked on Register Link*****
+12:41:56.352 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - *****Providing Customer Details*****
+12:42:06.508 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - *****Validating expected message*****
+12:42:08.535 [TestNG-tests-2] DEBUG testCases.TC001_AccountRegistrationTest - Debug logs..
+12:42:08.535 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - *****Finished TC01_AccountRegistrationTest*****
+12:42:23.331 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - *****Starting TC01_AccountRegistrationTest*****
+12:42:28.019 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - *****Clicked on MyAccount Link*****
+12:42:30.369 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - *****Clicked on Register Link*****
+12:42:30.375 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - *****Providing Customer Details*****
+12:42:39.976 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - *****Validating expected message*****
+12:42:42.369 [TestNG-tests-1] DEBUG testCases.TC001_AccountRegistrationTest - Debug logs..
+12:42:42.369 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - *****Finished TC01_AccountRegistrationTest*****
+12:43:03.246 [TestNG-tests-2] INFO  testCases.TC002_LoginTest - *****Started the Login Testcases*****
+12:43:03.246 [TestNG-tests-2] INFO  testCases.TC002_LoginTest - *****Executed the Login Page*****
+12:43:07.526 [TestNG-tests-2] INFO  testCases.TC002_LoginTest - *****Providing login details*****
